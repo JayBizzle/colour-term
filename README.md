@@ -1,7 +1,7 @@
 Colour Term
 ===========
 
-Small bash script that will change your terminal colour when connecting to remote computer
+Small script that will generate a new terminal background color based on the server hostname your connecting to
 
 
 Installation
