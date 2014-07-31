@@ -20,7 +20,7 @@ To make things easier and to make the command globally available, follow these s
 To make thing even easier, I prefer to remove the `.sh` extension so I don't have to type it each time
 * Run `mv /usr/local/bin/cssh.sh /usr/local/bin/cssh`
 
-Thats is it. Now from anywhere, you shoudl be able to just run `cssh 192.168.1.1` or `cssh your-hastname.com`
+Thats is it. Now from anywhere, you should be able to just run `cssh 192.168.1.1` or `cssh your-hastname.com`
 
 
 * This script was taken from a post on StackExchange, by user [**adamfield**](http://superuser.com/users/63588/adamfield). I'm posting here mainly so I have a record of this very useful script, but also to help others that may need it
