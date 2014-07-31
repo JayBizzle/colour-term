@@ -1,7 +1,7 @@
 Colour Term
 ===========
 
-Small script that will generate a new terminal background color based on the server hostname your connecting to
+Small script (for OS X) that will generate a new terminal background color based on the server hostname your connecting to
 
 
 Installation
@@ -13,7 +13,7 @@ Installation
 
 Extras
 ======
-To make things easier and to make the command globally available, follow these steps (your paths may differ, this is for OS X):
+To make things easier and to make the command globally available, follow these steps:
 * Run `sudo cp cssh.sh /usr/local/bin`
 * Enter your password
 
